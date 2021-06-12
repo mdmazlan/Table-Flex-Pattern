@@ -4,6 +4,6 @@ https://mdmazlan.github.io/Table-Flex-Pattern/
 <h1 align="center">Table Flex Pattern</h1>
   <p align="center"> <br />
     <br />
-    <img src="Screenshot.png" width="750" height="480" />
+    <img src="Screenshot.png" width="800" height="480" />
   </p>
 </p>
